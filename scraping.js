@@ -1,5 +1,4 @@
-
-var authKey = ""; //<----Add API Key Here
+var authKey = "ca74f1921c224f3396fdf738c9c60707"; //<----Add API Key Here
 
 // These variables will hold the results we get from the user's inputs via HTML
 var queryTerm 	= "";
